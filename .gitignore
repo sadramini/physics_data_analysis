@@ -1,0 +1,31 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# ---- Virtual env ----
+venv/
+.env
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- System files ----
+.DS_Store
+
+# ---- Data folders (large files, generated) ----
+data/*
+!data/.gitkeep
+
+results/*
+!results/.gitkeep
+
+# Allow these pipeline-control files
+!data/README.md
+!results/README.md
+
+# ---- Model / cache / misc ----
+cache/
+tmp/
