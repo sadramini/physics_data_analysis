@@ -113,6 +113,13 @@ grid-indexed form.
 
 ## ⚙️ Installation & Setup
 
+✅ Requirements
+	•	Python 3.9+ (recommended: Python 3.10 or 3.11)
+	•	pip
+
+If Python is not installed, download it from:
+https://www.python.org/downloads/
+
 ### 1️⃣ Clone repository
 
 ```bash
